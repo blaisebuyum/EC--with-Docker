@@ -1,1 +1,1 @@
-# EC--with-Docker
+# EC2-with-Docker
